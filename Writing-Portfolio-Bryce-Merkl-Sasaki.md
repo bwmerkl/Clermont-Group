@@ -29,11 +29,11 @@ The links and items below are all items either directly written or edited by me 
 * [Lipotype](https://www.germanaccelerator.com/blog/how-a-healthtech-startup-secured-a-local-sales-partnership-soon-after-expanding-into-japan/)
 
 ### Long-Form Content
-* Southeast Asia Snapshot Report: wrote and edited all content
-* China Snapshot Report: wrote and edited all content
-* U.S. Snapshot Report: wrote and edited all content
-* South Korea Snapshot Report: updated existing content
-* Japan Snapshot Report: updated existing content
+* [Southeast Asia Snapshot Report](https://github.com/bwmerkl/Clermont-Group/blob/main/Writing_Samples/Southeast_Asia_Snapshot_Report.pdf): wrote and edited all content
+* [China Snapshot Report](https://github.com/bwmerkl/Clermont-Group/blob/main/Writing_Samples/China_Snapshot_Report.pdf): wrote and edited all content
+* [U.S. Snapshot Report](https://github.com/bwmerkl/Clermont-Group/blob/main/Writing_Samples/US_Snapshot_Report.pdf): wrote and edited all content
+* [South Korea Snapshot Report](https://github.com/bwmerkl/Clermont-Group/blob/main/Writing_Samples/Korea_Snapshot_Report.pdf): updated existing content
+* [Japan Snapshot Report](https://github.com/bwmerkl/Clermont-Group/blob/main/Writing_Samples/Japan_Snapshot_Report.pdf): updated existing content
 
 ### Web Copy
 * I wrote or edited all of the English-language text on [the German Entrepreneurship website](https://www.german-entrepreneurship.com/).
@@ -72,7 +72,7 @@ _The Couchbase Blog_
 
 ### White Papers
 
-[_Build World-Class Web Apps Using Node.js and Couchbase_](https://github.com/bwmerkl/Kiva/blob/main/Writing-Samples/Couchbase-Nodejs-white-paper.pdf)
+[_Build World-Class Web Apps Using Node.js and Couchbase_](https://github.com/bwmerkl/Clermont-Group/blob/main/Writing_Samples/Couchbase_Nodejs_white_paper.pdf)
 *   I wrote this white paper using a combination of existing materials and sessions working with an in-house JavaScript expert. 
 *   I wrote the first draft myself for their review/approval with only light edits.
 
@@ -117,20 +117,20 @@ _Neo4j Developer Blog_
 
 *   For this ebook, I worked with the Developer Relations team to pull together all their resources on the topic (RDBMS to Graph), and then I wrote the first draft myself for their review/approval with only light edits.
 *   Contact Michael Hunger at Neo4j at [michael.hunger@neo4j.com](mailto:michael.hunger@neo4j.com) if you need to verify I wrote this ebook.
-*   [PDF link here](https://github.com/bwmerkl/Kiva/blob/main/Writing-Samples/Definitive-Guide-Graph-Databases-for-RDBMS-Developer.pdf)
+*   [PDF link here](https://github.com/bwmerkl/Clermont-Group/blob/main/Writing_Samples/Definitive_Guide_Graph_Databases_for_RDBMS_Developer.pdf)
 
 [_The Top 10 Use Cases of Graph Database Technology_](https://neo4j.com/whitepapers/top-ten-use-cases-graph-database-technology/)
 
 *   I wrote the original draft of this white paper in 2015 when it was only the “Top 5” use cases. I then supervised and edited the addition of the next five use cases that were blended into the original text. 
 *   This white paper has since been translated into [four other languages](https://neo4j.com/resources/top-use-cases-graph-databases-thanks/).
 *   Contact Jim Webber at Neo4j at [jim.webber@neo4j.com](mailto:jim.webber@neo4j.com) if you need to verify I wrote this white paper.
-*   [PDF link here](https://github.com/bwmerkl/Kiva/blob/main/Writing-Samples/Neo4j-Top-10-Use-Cases-EN-US.pdf)
+*   [PDF link here](https://github.com/bwmerkl/Clermont-Group/blob/main/Writing_Samples/Neo4j_Top_10_Use_Cases_EN_US.pdf)
 
 [_Graph Databases for Beginners_](https://neo4j.com/whitepapers/graph-databases-beginners-ebook/)
 
 *   This ebook repurposed the “Graph Databases for Beginners” blog series into a PDF ebook (for gated downloads). 
 *   As with the blog series, I wrote the original core chapters of this ebook and then supervised and edited additions over the years (2015-2021).
-*   [PDF link here](https://github.com/bwmerkl/Kiva/blob/main/Writing-Samples/Graph-Databases-for-Beginners-EN-US.pdf)
+*   [PDF link here](https://github.com/bwmerkl/Clermont-Group/blob/main/Writing_Samples/Graph_Databases_for_Beginners_EN_US.pdf)
 
 **Under My Leadership or Supervision**
 
@@ -174,20 +174,11 @@ Here are two articles I wrote for the marketing agency where I used to work in P
 *   [Why Buyer Personas Are Essential To An H2H Marketing Strategy](https://www.square2marketing.com/blog/why-buyer-personas-are-essential-to-an-h2h-marketing-strategy)
 *   After I left the agency, my byline was redirected to the company CEO. 
 
-### Big Sky Associates
+### Older Freelance Clients
 
-Big Sky Associates is a consulting firm for federal agencies and large commercial banks and was a client of Square 2 Marketing during my tenure there. Here are two articles I wrote for Big Sky:
-
-
-
-*   [Do Your Process Improvement Efforts Return Quantifiable Results?](https://www.bigskyassociates.com/blog/do-your-process-improvement-efforts-return-quantifiable-results)
-*   [Elite Data Analysis For Security, Part I: Data Collection Tactics](https://www.bigskyassociates.com/blog/elite-data-analysis-for-security-part-i-data-collection-tactics)
-    *   This five-part blog series was based on the five parts of a white paper I had also written for Big Sky Associates.
-
-### Freelance Clients
-
-Here is one freelance client who still uses my work from before 2013. I wrote all of the copy on this website:
+Here are two freelance clients who still use my work from before 2013. I wrote all of the copy on these websites:
 
 *   [Capitol Leasing & Financing Service](https://www.capitoleasing.com/)
+*   [Faith Bible Chapel South](http://fbcsouth.org/)
 
 Looking for anything else in particular? Email me at [bwmerkl@gmail.com](mailto:bwmerkl@gmail.com) and I might be able to dig up some dusty drafts from the archives.
